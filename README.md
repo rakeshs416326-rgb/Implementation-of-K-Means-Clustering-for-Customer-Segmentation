@@ -97,9 +97,16 @@ print("\n" + "="*50)
 print("Results saved to 'customer_segments.csv'")
 ```
 ## Output:
+
 <img width="877" height="207" alt="image" src="https://github.com/user-attachments/assets/0a998c8d-95e6-4c99-9192-0e994270a094" />
+
+
 <img width="1043" height="647" alt="image" src="https://github.com/user-attachments/assets/27c5bf7a-288b-4115-9fcc-db2e28c5b762" />
+
+
 <img width="499" height="497" alt="image" src="https://github.com/user-attachments/assets/98abe3d2-f58a-4b2b-a38f-92436eb3a91e" />
+
+
 <img width="504" height="351" alt="image" src="https://github.com/user-attachments/assets/6e9e9bdb-b7c8-4dd4-9b6a-83d193d29001" />
 
 
